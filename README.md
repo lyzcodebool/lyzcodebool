@@ -216,7 +216,7 @@ mindmap
 
 <!-- My Blog 博客首页 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
-<a href="https://www.apollonai.cn"><img src="http://s-bj-6405-myblog.oss.dogecdn.com/%E8%AF%B4%E8%AF%B4/%E5%BC%80%E7%AB%991%20(1).png" /></a>
+<a href="https://www.lyzplus.cn"><img src="https://cdn.lyzplus.cn/friend/%E5%BE%90%E5%BE%90%E5%BE%AE%E9%A3%8E/home.png" /></a>
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />
 
 </div>
