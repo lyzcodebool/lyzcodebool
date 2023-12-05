@@ -46,28 +46,19 @@
 
 <tr>
 <td>
-  
-### 🏢 Work Experience
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-  
-<!-- - [广州图慧信息科技有限公司](https://120.79.217.107/) &emsp; 📌 Todo
-  
-  - 工作岗位：Web前端开发工程师
-  - 工作内容：GIS相关 -->
-
-</td>
-</tr>
-
-<tr><td>
 
 <!-- 近期博客 -->
-### 📃 Recent Blog
+### 📃 我的网站
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:blog -->
-<!-- * <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26 -->
+<a href='https://www.lyzplus.cn' target='_blank'>LYZ-ling云智_致力于创建高质量的资源技术共享交流平台</a>
+<a href='https://ai.lyzplus.cn' target='_blank'>LYZ-Ling云智GPT_你的超级AI助手</a>
+<a href='https://shop.lyzplus.cn' target='_blank'>LYZ的杂货铺</a>
+<a href='https://dlbm.lyzplus.cn' target='_blank'>哆啦B梦_超级导航</a>
+<a href='https://tool.lyzplus.cn' target='_blank'>LYZ工具站_170+工具集</a>
+
 <!-- END_SECTION:blog -->
 
 </td></tr>
