@@ -54,7 +54,8 @@
 
 <!-- START_SECTION:blog -->
 <a href='https://www.lyzplus.cn' target='_blank'>LYZ-ling云智_致力于创建高质量的资源技术共享交流平台</a><br>
-<a href='https://ai.lyzplus.cn' target='_blank'>LYZ-Ling云智GPT_你的超级AI助手</a><br>
+<a href='https://chat.lyzplus.cn' target='_blank'>LYZGPT_学术版</a><br>
+<a href='https://gpt.lyzplus.cn' target='_blank'>YourGPT</a><br>
 <a href='https://shop.lyzplus.cn' target='_blank'>LYZ的杂货铺</a><br>
 <a href='https://dlbm.lyzplus.cn' target='_blank'>哆啦B梦_超级导航</a><br>
 <a href='https://tool.lyzplus.cn' target='_blank'>LYZ工具站_170+工具集</a><br>
